@@ -26,7 +26,11 @@ CLI tool to ping sites and return HTTP status codes
 Features
 --------
 
-* TODO
+* supports multiple urls
+
+.. image:: htping.gif
+        :width: 700
+        :alt: Htping terminalizer demo
 
 Credits
 -------
